@@ -1,7 +1,7 @@
 ---
 layout: home
 paginate: true
-alt_title: "Papalardo Acosta"
+alt_title: "Que hizo Papalardo?"
 image: /assets/images/papalardo-acosta.jpg
 ---
 10 AÑOS DE RAQUEL PAPALARDO COMO RECTORA DEL MARIANO ACOSTA
