@@ -25,7 +25,7 @@ image: /assets/images/papalardo-acosta.jpg
  el 2004 /06.
 
 ## 2010
- - Comprometida con la reconstrucción del edificio , continúa el reclamo por el edificio y el trabajo en el  mallado de techos techos. 
+ - Comprometida con la reconstrucción del edificio , continúa el reclamo por el edificio y el trabajo en el  mallado de techos. 
  - Cruce de datos  entre el Archivo con organismos de DDHH.  
  - Se continúan en la investigación en archivo y museo. 
  - Articulación con estudiantes de la UBA. Investigación sobre la historia de la escuela.
