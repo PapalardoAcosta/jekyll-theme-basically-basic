@@ -74,22 +74,21 @@ image: /assets/images/papalardo-acosta.jpg
  - 8ª Noche de los Museos.
  -  Homenaje a las ciencias (Aniversario de la Noche de los Bastones Largos).
  - Visita de escuelas de Piaui y de Río de Janeiro en el marco del MERCOSUR.
- - Curso de capacitación a  cargo del equipo de Memoria " Como organizar los espacios de Memoria Escolar" en el INFOD
+ - Curso de capacitación a  cargo del equipo de Memoria "Cómo organizar los espacios de Memoria Escolar" en el INFOD
 
 
 ## 2017
  - Se crea el Consejo Asesor de la Radio ( Docentes, alumnos, padres, ex alumnos) .
- -  Proyecto de intensificación de la lengua portuguesa. Viaje a Rìo de Janeiro por intercambio educativo. 
+ - Proyecto de intensificación de la lengua portuguesa. Viaje a Rìo de Janeiro por intercambio educativo. 
  - Inauguración de Rincón Lector en primaria
 PROYECTOS PENDIENTES DE EJECUCIÓN
  - Los viajes educativos.
- -  Aapertura del espacio comedor para los estudiantes y docentes.
+ - Apertura del espacio comedor para los estudiantes y docentes.
  - Ampliación del archivo histórico.
  - Ampliación de la articulación con los ex alumnos. 
  - Fundamentación de la necesidad de un ANEXO por la expansión de la escuela.
  - Articulación con la escuela de Danzas Nelly Ramicone existente desde  2009 y continúa.
  - Articulación con la Facultad de Psicología por trabajo barrial en contexto de vulnerabilidad.
-
  - Todos los arreglos que se han realizado en la escuela de bienes muebles han sido gestionados ante la Asociación Cooperadora.
 
 # PROYECTOS EDUCATIVOS 
@@ -112,7 +111,7 @@ APLICACIÓN.
 
 ## NIVEL INICIAL
  - Proyectos de murales y de trabajos en resina con el Instituto Yrurtia.
- - ESI .
+ - ESI.
  - Huerta                 
 
 ## PROYECTO NIVEL MEDIO
