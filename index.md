@@ -9,8 +9,7 @@ image: /assets/images/papalardo-acosta.jpg
 # GESTIÓN
 ## 2007
  - Toma el rectorado de una escuela  con pocos  alumnos por caída de un techo, alumnos y docentes repartidos en 8 sedes. 
- - Organiza el espacio escolar y pone en valor la 
- - Biblioteca Arturo Marasso.
+ - Organiza el espacio escolar y pone en valor la Biblioteca Arturo Marasso.
 
 ## 2008
  - Organización del Consejo Directivo del Terciario. Organo de co-gobierno del Nivel Terciario.
